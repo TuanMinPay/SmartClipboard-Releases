@@ -2,5 +2,15 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>SmartClipboard</title>
+    <item>
+      <title>Version 0.4.0</title>
+      <pubDate>Tue, 10 Nov 2026 00:37:09 GMT</pubDate>
+      <sparkle:version>202611100734</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First public release</p>]]></description>
+      <enclosure url="https://github.com/TuanMinPay/SmartClipboard-Releases/releases/download/v0.4.0/SmartClipboard-0.4.0.zip" length="7525333" type="application/octet-stream"
+                 sparkle:edSignature="Qk8ALMNyh8P2CEWzRS2oFOG3oIbEKGCUHNhbZHpa4EUz6gOM9W3u/C4JFWL3FAyjhRFu0HLOY23jtvHvl1fGDA=="/>
+    </item>
   </channel>
 </rss>
